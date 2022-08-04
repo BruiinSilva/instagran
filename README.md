@@ -8,3 +8,6 @@ Esse é o repositório de flexbox, na qual vamos fazer a interface de login do I
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 🚀 Vamos começar! 🚀
+
+
+pode conferir o Layout  em https://bruiinsilva.github.io/instagran/
